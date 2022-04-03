@@ -5,7 +5,11 @@ footer{
 }
 
 
-  
+.col h1{
+    font-style: italic;
+    font-size: 35px;
+    color: #088178;
+}
 
 footer .col{
     display: flex;

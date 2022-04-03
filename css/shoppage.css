@@ -35,6 +35,8 @@
 }
 
 
+
+
 @media screen and (max-width: 500px){
 
     #page-header{
@@ -42,6 +44,10 @@
     }
 
 
+    #page-header p {
+        padding-left:160px;
+    
+    }
    
 
 }
