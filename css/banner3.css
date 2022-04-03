@@ -12,7 +12,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(../img/pexels-photo-1640777.jpeg);
+    background-image: url(../img/ap0026-500x500.jpg);
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -24,12 +24,12 @@
 
 #banner3 .banner-box2{
     
-    background-image: url(../img/2021_01_18_109951_1610963733._large.jpg);
+    background-image: url(../img/ap0024-500x500.png);
 }
 
 #banner3 .banner-box3{
     
-    background-image: url(../img/pexels-photo-604969.jpeg);
+    background-image: url(../img/cartoon-graffiti-printed-turn-down-collar-shirts-500x500.jpg);
 }
 
 

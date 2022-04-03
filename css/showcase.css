@@ -2,7 +2,8 @@
    /* Home page */
 
    #hero{
-       background-image: url(../img/2021_01_18_109951_1610963733._large.jpg) ;
+       /* background-image: url(../img/2021_01_18_109951_1610963733._large.jpg) ; */
+       background-image: url(../img/photo-1523381294911-8d3cead13475.jpg);
        height: 90vh;
        width: 100%;
        background-size: cover;
