@@ -70,6 +70,12 @@
         padding-top: 5px;
     }
 
+    .lop{
+        margin-left: -20px;
+        /* padding-top: 5px; */
+        font-size: 20px;
+    }
+
 
     #about-app h1{
        padding-left: 100px;
