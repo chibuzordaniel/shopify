@@ -41,7 +41,7 @@
 
 #product1 .pro .des span{
     color: #606063;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 #product1 .pro .des h5{
@@ -86,7 +86,17 @@
      padding-left: 30px;
  }
 
+ #product1 .pro .des span{
+     font-size: 18px;
+ }
 
+ #product1 .pro .des h4{
+     font-size: 27px;
+ }
+
+ #product1 .pro .des i{
+     font-size: 16px;
+ }
  
  #product1 .pro img{
 
