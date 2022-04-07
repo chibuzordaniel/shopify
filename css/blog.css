@@ -1,5 +1,6 @@
  #page-header.blog-header {
-     background-image: url(../img/photo-1523381294911-8d3cead13475.jpg);
+     background-image: url(../img/OnlineShopping.jpg);
+     background-size: cover;
      
  }  
 
@@ -30,7 +31,7 @@
 }
 
 #blog .blog-details {
-    width: 50%;
+    width: 100%;
     padding-left:199px;
 }
 
